@@ -1,14 +1,15 @@
                                                                                         
-                                                                                        WEATHER FORECAST APP
-                                                                                        ---------------------
-1. Thank You
+                                                                                # WEATHER FORECAST APP
+                                                                                  
+
+##1. Thank You
         I would like to extend my heartfelt thanks to GoldenOwlAsia for providing me with the opportunity to work on this Weather Forecast Application as part of your assessment process. This project has allowed me to demonstrate my         skills in both frontend and backend development, showcasing my ability to build robust and scalable web applications.
         Thank you once again for this invaluable experience. I appreciate the chance to contribute and to further develop my skills through this project.
 
-2. Link to Web Application: http://luongnguyen171.id.vn/
+##2. Link to Web Application: http://luongnguyen171.id.vn/
 
-3. Technologies Used
-        * Frontend : ReactJS, React Bootstrap,TypeScript, Sass,Redux Toolkit (Thunk Middleware)
+##3. Technologies Used
+        *  Frontend : ReactJS, React Bootstrap,TypeScript, Sass,Redux Toolkit (Thunk Middleware)
         * Backend: PHP Laravel,MySQL,GuzzleHTTP, Mailtrap
         * Deployment Platforms: VPS Hosting, Docker
         * User Features :
